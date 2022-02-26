@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BeProSource.iml" filepath="$PROJECT_DIR$/BeProSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uz.for.project.iml" filepath="$PROJECT_DIR$/uz.for.project.iml" />
     </modules>
   </component>
 </project>
