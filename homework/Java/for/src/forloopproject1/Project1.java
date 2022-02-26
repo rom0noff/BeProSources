@@ -1,4 +1,4 @@
-package forproject1;
+package forloopproject1;
 
 import java.util.Scanner;
 
